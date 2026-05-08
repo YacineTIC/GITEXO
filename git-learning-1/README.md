@@ -1,1 +1,2 @@
-Exercice 1 OK 
+"Mon premier projet Git" 
+"Nom: YACINE DADE - HP: ELITEBOOK" 
