@@ -1,1 +1,2 @@
-Ligne depuis main version 2 
+Ligne depuis main version 2
+Ligne depuis conflict-test
