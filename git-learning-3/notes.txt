@@ -1,5 +1,1 @@
-
-Ligne modifie depuis main seconde fois 
-
-Ligne ecrite depuis conflict-test 
-
+Ligne depuis main version 2 
